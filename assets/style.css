@@ -44,6 +44,7 @@
     border: 1px solid black;
     background-color: lightgray;
     gap: 15px;
+
 }
 
 .block1 {
@@ -70,7 +71,7 @@
 }
 
 .name {
-    align-self: center;
+    align-self: start;
     justify-self: center;
 }
 
@@ -79,4 +80,5 @@
     border: 1px solid black;
     text-align: center;
     align-items: center;
+
 }
